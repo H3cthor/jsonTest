@@ -97,19 +97,23 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/h3cthor.sb"
+        "url": "https://www.facebook.com/h3cthor.sb",
+        "url_img": "https://github.com/H3cthor/jsonTest/blob/main/facebook_rounded_40.png"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/s_hector"
+        "url": "https://twitter.com/s_hector",
+        "url_img": "https://github.com/H3cthor/jsonTest/blob/main/facebook_rounded_40.png"
       },
       {
         "name": "github",
-        "url": "https://github.com/H3cthor"
+        "url": "https://github.com/H3cthor",
+        "url_img": "https://github.com/H3cthor/jsonTest/blob/main/facebook_rounded_40.png"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/hectorsb/"
+        "url": "https://www.linkedin.com/in/hectorsb/",
+        "url_img": "https://github.com/H3cthor/jsonTest/blob/main/facebook_rounded_40.png"
       }
     ]
   }
