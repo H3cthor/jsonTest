@@ -1,13 +1,13 @@
 {
   "data": {
-    "name": "Melissa Walsh",
-    "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
+    "name": "Hector Saldaña Benitez",
+    "profession": "FullStack Developer",
+    "address": "Querétaro, México",
+    "email": "hectorsalbe@hotmail.com",
     "website": "https://example.com",
-    "phone": "3042034240",
+    "phone": "4272193840",
     "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "profile": "Software Developer | Blockchain & Crypto | Fintech",
     "certificate": [
       {
         "date": "Jan 2021",
@@ -24,59 +24,65 @@
     ],
     "Academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
-        "startDate": "Jan 2018"
+        "degree": "Ingeniero en Sistemas Computacionales",
+        "description": "Especialidad en redes y sistemas distribuidos",
+        "endDate": "Julio 2003",
+        "institution": "Instituto Tecnológico de San Juan del Río",
+        "startDate": "Enero 1997"
       },
       {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
+        "degree": "Maestria es Sistemas de Información",
+        "description": "Gestión y tecnología",
+        "endDate": "Diciembre 2012",
+        "institution": "Universidad Autónoma de Querétaro",
+        "startDate": "Febrero 2011"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
-        "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "company": "Universidad Tecnológica de San Juan del Río",
+        "endDate": "Actual",
+        "jobDescription": "Docencia en la carrera de Desarrollo de Software",
+        "jobTitle": "Profesor de asignatura",
+        "startDate": "Agosto 2010"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "MaxComp",
+        "endDate": "Actual",
+        "jobDescription": "Desarrollo de aplicación móvil usando React, Next, Prisma, Zod",
+        "jobTitle": "Desarrollador Móvil Fullstack",
+        "startDate": "Junio 2022"
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "90%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "90%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "80%"
       },
       {
         "name": "React",
         "percentage": "90%"
+      },
+      {
+        "name": "Solidity",
+        "percentage": "60%"
       }
     ],
     "interest": [
       "javascript",
       "develop",
       "backend",
-      "frontend"
+      "frontend",
+      "blockchain",
+      "web3"
     ],
     "languages": [
       {
@@ -85,25 +91,25 @@
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "70%"
       }
     ],
     "social": [
       {
         "name": "facebook",
-        "url": "https://facebook.com/"
+        "url": "https://www.facebook.com/h3cthor.sb"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/"
+        "url": "https://twitter.com/s_hector"
       },
       {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "https://github.com/H3cthor"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/hectorsb/"
       }
     ]
   }
